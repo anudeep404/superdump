@@ -22,7 +22,7 @@
   },
   "RequestFileLogging": {
     "PathFormat": "../../data/audit/requeststestnew.log",
-    "IncludeScopes": false,
+    "IncludeScopes": true,
     "LogLevel": {
       "Default": "Warning",
       "SuperDumpServiceRequests": "Information"
