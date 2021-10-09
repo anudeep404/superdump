@@ -21,7 +21,7 @@
     }
   },
   "RequestFileLogging": {
-    "PathFormat": "../../data/audit/requeststest.log",
+    "PathFormat": "../../data/audit/requeststestdelete.log",
     "IncludeScopes": false,
     "LogLevel": {
       "Default": "Warning",
