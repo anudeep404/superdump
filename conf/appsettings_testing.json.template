@@ -13,7 +13,7 @@
     }
   },
   "FileLogging": {
-    "PathFormat": "../../data/audit/access.log",
+    "PathFormat": "../../data/audit/accesstest.log",
     "IncludeScopes": false,
     "LogLevel": {
       "Default": "Warning",
