@@ -21,8 +21,8 @@
     }
   },
   "RequestFileLogging": {
-    "PathFormat": "../../data/audit/requeststestdelete.log",
-    "IncludeScopes": false,
+    "PathFormat": "../../data/audit/requeststestnew.log",
+    "IncludeScopes": true,
     "LogLevel": {
       "Default": "Warning",
       "SuperDumpServiceRequests": "Information"
