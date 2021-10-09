@@ -112,6 +112,7 @@ Build
    * Windows Debugging Tools (`cdb.exe`) (optional, for interactive mode)
  * Build via buildscript in `building/*.cmd` (see <a href="building/README.md">README.md</a>)
  * Run via `build/runsuperdump.cmd` (defaults to port 5000)
+ * The test config will be picking up from appsetting_testing.json.template
 
  Authentication
  ==============
